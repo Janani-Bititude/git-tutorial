@@ -1,4 +1,4 @@
-sic commands
+Basic commands
 1 . date - Display the date of today wit time.
      $ date
 2. cal
@@ -199,4 +199,5 @@ chmod a=rwx file - Assign read rights to all users
 
 
 
+Thank You  :)
 
